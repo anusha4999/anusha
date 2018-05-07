@@ -1,0 +1,9 @@
+#a=[1,2,1,3,1,5,3]
+a={1,2,3,4}
+b={2,3,6}
+print(a.difference(b))
+#print(b)
+#print(a)
+print(a.difference_update(b))
+#print(dir(set))
+print(a)
